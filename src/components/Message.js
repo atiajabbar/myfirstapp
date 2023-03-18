@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-  const Message() {
+function Message() {
 
       return (
       <div>
